@@ -1,0 +1,15 @@
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/metodlar-overloading/bin/Debug/net6.0/metodlar-overloading
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/metodlar-overloading/bin/Debug/net6.0/metodlar-overloading.deps.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/metodlar-overloading/bin/Debug/net6.0/metodlar-overloading.runtimeconfig.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/metodlar-overloading/bin/Debug/net6.0/metodlar-overloading.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/metodlar-overloading/bin/Debug/net6.0/ref/metodlar-overloading.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/metodlar-overloading/bin/Debug/net6.0/metodlar-overloading.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/metodlar-overloading/obj/Debug/net6.0/metodlar-overloading.csproj.AssemblyReference.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/metodlar-overloading/obj/Debug/net6.0/metodlar-overloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/metodlar-overloading/obj/Debug/net6.0/metodlar-overloading.AssemblyInfoInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/metodlar-overloading/obj/Debug/net6.0/metodlar-overloading.AssemblyInfo.cs
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/metodlar-overloading/obj/Debug/net6.0/metodlar-overloading.csproj.CoreCompileInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/metodlar-overloading/obj/Debug/net6.0/metodlar-overloading.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/metodlar-overloading/obj/Debug/net6.0/ref/metodlar-overloading.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/metodlar-overloading/obj/Debug/net6.0/metodlar-overloading.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/metodlar-overloading/obj/Debug/net6.0/metodlar-overloading.genruntimeconfig.cache
